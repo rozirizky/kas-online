@@ -60,15 +60,7 @@
                 <span class="hide-menu">Pengeluaran</span>
               </a>
             </li>
-            <li class="sidebar-item">
-              <a class="sidebar-link" href="{{ route('tampiltransaksi') }}" aria-expanded="false">
-                <span>
-                  <i class="ti ti-cards"></i>
-                </span>
-                <span class="hide-menu">Pemasukan</span>
-              </a>
-            </li>
-           
+        
           
         
           </ul>
